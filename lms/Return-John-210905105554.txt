@@ -1,0 +1,10 @@
+Date: 05-09-2021
+Time: 10:55:54 AM
+
+Returned By: John
+
+Books returned: 
+Harry Potter
+Programming
+
+Total price: $12.0

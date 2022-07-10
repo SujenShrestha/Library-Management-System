@@ -1,0 +1,10 @@
+Date: 01-09-2021
+Time: 10:37:14 AM
+
+Customer's Name: John
+
+Books borrowed: 
+Harry Potter
+Programming
+
+Total price: $12.0

@@ -1,0 +1,9 @@
+Date: 30-08-2021
+Time: 11:05:56 AM
+
+Customer's Name: Michael
+
+Books borrowed: 
+Programming
+
+Total price: $5.0

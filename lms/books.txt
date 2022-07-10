@@ -1,0 +1,5 @@
+Start With Why,Simon Sinek,12,$1.5
+Programming,Ruston Joile,26,$5
+Python Program,Justin Jolie,0,$5
+Harry Potter,J.K. Rowling,29,$7
+The Hobbit,J.R.R. Tolkien,38,$3

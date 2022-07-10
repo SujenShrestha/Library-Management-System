@@ -1,0 +1,10 @@
+Date: 26-08-2021
+Time: 11:02:20 AM
+
+Customer's Name: Michael
+
+Books borrowed: 
+Programming
+Start With Why
+
+Total price: $6.5
